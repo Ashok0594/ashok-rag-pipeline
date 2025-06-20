@@ -1,0 +1,9 @@
+PyMuPDF
+sentence-transformers
+faiss-cpu
+nltk
+scikit-learn
+pydantic
+openai
+tqdm
+
